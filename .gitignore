@@ -1,0 +1,6 @@
+# ignore index1.js $ config.js files
+index1.js
+config.js
+
+# ignore ALL files in ANY directory named temp
+node_modules/
